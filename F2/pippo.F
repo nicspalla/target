@@ -1,5 +1,5 @@
 program prova
   implicit none
-  integer :: i
+  integer :: i,j
 end program prova
 
